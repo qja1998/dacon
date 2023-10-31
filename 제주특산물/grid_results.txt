@@ -1,0 +1,24 @@
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 500, 'subsample': 0.5}
+Building TG SMAPE : 770261.9332594131
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 500, 'subsample': 0.5}
+Building CR SMAPE : 83105.25544796023
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 500, 'subsample': 0.5}
+Building CB SMAPE : 30242.069872158907
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 500, 'subsample': 0.5}
+Building RD SMAPE : 30784.993756266587
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 500, 'subsample': 0.5}
+Building BC SMAPE : 673387.3455141579
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 10000, 'subsample': 0.5}
+Building TG SMAPE : 1050122.8493654067
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 10000, 'subsample': 0.5}
+Building CR SMAPE : 105817.36103937826
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 10000, 'subsample': 0.5}
+Building TG SMAPE : 483599.80063209194
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 10000, 'subsample': 0.5}
+Building CR SMAPE : 47184.43238658602
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 10000, 'subsample': 0.5}
+Building CB SMAPE : 29653.402536839978
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 10000, 'subsample': 0.5}
+Building RD SMAPE : 26154.221370659918
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 10000, 'subsample': 0.5}
+Building BC SMAPE : 665100.70400816
