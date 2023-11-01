@@ -1,6 +1,6 @@
-colsample_bytree,max_depth,min_child_weight,n_estimators,subsample,alpha
-0.3,-1,0.0001,10000,0.5,
-0.3,-1,0.0001,10000,0.5,
-0.3,-1,0.0001,10000,0.5,
-0.3,-1,0.0001,10000,0.5,
-0.3,-1,0.0001,10000,0.5,
+n_estimators,min_child_weight,max_depth,colsample_bytree,subsample,alpha
+10000,,,,,
+10000,,,,,
+10000,,,,,
+10000,,,,,
+10000,,,,,
