@@ -1,0 +1,8 @@
+pandas==1.2.4
+numpy==1.19.2
+matplotlib==3.3.4
+tqdm==4.59.0
+sktime==0.6.1
+xgboost==1.2.1
+seaborn==0.11.1
+scikit-learn==0.24.2
